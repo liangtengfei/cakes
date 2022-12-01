@@ -1,2 +1,2 @@
 # cakes
-doc/record/diary
+doc/record/diary......
