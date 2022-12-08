@@ -1,5 +1,0 @@
-configs:
-  - cronsepc: "@every 10s"
-    task_type: "task:email:periodic"
-    payload:
-      username: "唐三藏"
